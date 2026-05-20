@@ -8,7 +8,7 @@ Currently building the web platform for [Unify Social](https://unifysocial.ca) �
 
 ### What I'm building
 
-- 🧡 **[Unify Social](https://unifysocial.ca)** — web platform for newcomers settling in Canada. Built with Next.js, TypeScript, and Supabase
+- 🧡 **[Unify Social Web Platform](https://unifysocial.ca)** — web app for newcomers settling in Canada. Built with Next.js, TypeScript, and Supabase
 - 🌐 **[Unify Landing Page](https://unifysocial.ca)** — marketing site built with Astro on Cloudflare
 
 ### Other projects
