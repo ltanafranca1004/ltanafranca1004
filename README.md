@@ -34,14 +34,6 @@ Currently building the web platform for [Unify Social](https://unifysocial.ca) â
 
 ---
 
-### GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ltanafranca1004&show_icons=true&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ltanafranca1004&layout=compact&hide_border=true&count_private=true)
-
----
-
 ### Find me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luistanafranca)
