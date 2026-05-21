@@ -36,9 +36,9 @@ Currently building the web platform for [Unify Social](https://unifysocial.ca) â
 
 ### GitHub Stats
 
-![Luis's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ltanafranca1004&show_icons=true&theme=default&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ltanafranca1004&show_icons=true&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ltanafranca1004&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ltanafranca1004&layout=compact&hide_border=true&count_private=true)
 
 ---
 
