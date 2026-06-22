@@ -8,7 +8,7 @@ Currently building the web platform for [Unify Social](https://unifysocial.ca) �
 
 ### What I'm building
 
-- 🧡 **[Unify Social Web Platform](https://unifysocial.ca)** — web app for newcomers settling in Canada. Built with Next.js, TypeScript, and Supabase
+- 🧡 **[Unify Social Web Platform](https://app.unifysocial.ca/)** — web app for newcomers settling in Canada. Built with Next.js, TypeScript, and Supabase
 - 🌐 **[Unify Landing Page](https://unifysocial.ca)** — marketing site built with Astro on Cloudflare
 
 ### Other projects
@@ -38,4 +38,4 @@ Currently building the web platform for [Unify Social](https://unifysocial.ca) �
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/luistanafranca)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lat13@sfu.ca)
-[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white)](https://unifysocial.ca)
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=safari&logoColor=white)](https://ltanafranca1004.github.io/portfolio/)
