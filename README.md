@@ -10,6 +10,7 @@ Currently building the web platform for [Unify Social](https://unifysocial.ca) �
 
 - 🧡 **[Unify Social Web Platform](https://app.unifysocial.ca/)** — web app for newcomers settling in Canada. Built with Next.js, TypeScript, and Supabase
 - 🌐 **[Unify Landing Page](https://unifysocial.ca)** — marketing site built with Astro on Cloudflare
+- 🎯 **Lens** — AI-powered interview prep tool for job seekers preparing for interviews. Built with FastAPI, PostgreSQL, and React
 
 ### Other projects
 
