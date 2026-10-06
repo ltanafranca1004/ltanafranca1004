@@ -9,6 +9,7 @@ Currently building the web platform for [Unify Social](https://unifysocial.ca) �
 ### What I'm building
 
 - 🧡 **[Unify Social Web Platform](https://app.unifysocial.ca/)** — web app for newcomers settling in Canada. Built with Next.js, TypeScript, and Supabase
+- 🏆 **[Cubic](https://www.playcubic.tech/)** — two-player co-op puzzle game, winner of the Best Design track at StormHacks 2026 ([Devpost](https://devpost.com/software/cubic-wu2s5i) · [code](https://github.com/ltanafranca1004/Cubic)). Built with TypeScript, Phaser, Socket.io, and WebRTC
 - 🌐 **[Unify Landing Page](https://unifysocial.ca)** — marketing site built with Astro on Cloudflare
 - 🎯 **[Lens](https://lens-tau-nine.vercel.app/)** — AI-powered interview prep tool for job seekers preparing for interviews. Built with FastAPI, PostgreSQL, and React
 
